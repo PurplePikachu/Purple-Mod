@@ -1,0 +1,61 @@
+Walls:
+Stone Wall
+400 HP
+No Side Effects
+Description:
+A weak wall. Used for early waves.
+
+Large Stone Wall
+2000 HP
+No Side Effects:
+A moderate wall. Used for early waves.
+
+Iron Wall
+1000 HP
+No Side Effects
+Description:
+A moderate wall. Used for waves 20-40.
+
+Large Iron Wall
+5000 HP
+No Side Effects
+Description:
+A tough wall. Used for waves 20-40.
+
+Steel Wall
+5000 HP
+Spike Effect
+Description:
+A tough wall. Inflicts spikes.
+
+Large Steel Wall
+15000 HP
+Hot Spike Effect
+Description:
+A tough wall. Inflicts hot spikes.
+
+Dirium Wall
+15000 HP
+Spike Effect
+Description:
+A very tough wall. Inflicts spikes.
+
+Large Dirium Wall
+45000 HP
+Cold Touch Effect
+Description:
+A very tough wall. Freezes enemies.
+
+Uranium Wall
+30000 HP
+Explosion Effect
+Description:
+A very tough wall. Every time it is majorly hurt, an enemy that is tier 1-3 explodes.
+
+Large Uranium Wall
+10000 HP
+Explode Radius: 6, 12(power)
+Power Usage: 220/sec
+Exploded Effect
+Description:
+A tough wall. It explodes, killing every enemy that is in it's Explode Radius. Guardians are not affected.
