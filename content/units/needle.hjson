@@ -1,0 +1,17 @@
+type: flying
+weapons: [
+  {
+  bullet: {
+    type: ZapBulletType
+    damage: 10
+  }
+}
+]
+research: {
+  parent: flare
+  requirements: [
+    graphtainium/20
+    copper/100
+    lead/100
+  ]
+}
