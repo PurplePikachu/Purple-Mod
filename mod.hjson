@@ -1,0 +1,8 @@
+name: "Purple-Mod"
+displayName: "Adding new lore to Mindustry."
+author: PurplePikachu
+description: "By it's display name, the Purple Mod adds new stuff to Mindustry, along with new turrets and enemies galore."
+version: "0.2 Water Beta"
+minGameVersion: "120.1"
+dependencies: [ ]
+hidden: false
